@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development in Games websites and apps
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me Via Instagram @original.harold
+- 📫 Reach me by Instagram @original.harold
 
 <!---
 harryhoyle/harryhoyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
